@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Audiometr</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ustawienia</string>
+    <string name="zacheta">Zbadaj swój słuch!</string>
+    <string name="kalibruj_txt">Kalibruj urządzenie</string>
+    <string name="zacznijBadanie">Zacznij badanie</string>
+    <string name="jakKal_txt">Po co kalibrować?</string>
+    <string name="startKal_txt">▷ Test</string>
+    <string name="jakBad_txt">Jak wykonać badanie?</string>
+
+    <string name="title_activity_main2">Kalibracja urządzenia</string>
+    <string name="title_activity_main3">Badanie</string>
+    <string name="kalText2">1. Założyć słuchawki i jeśli posiadają one możliwość regulacji - ustawić ich głośność na maksimum.</string>
+    <string name="kalText3">2. Odtworzyć testowy dźwięk w celu ustawienia poziomu głośności urządzenia tak, by sygnał był prawie niesłyszalny:</string>
+    <string name="kalText1">Aby wyniki symulacji były jak najbardziej zbliżone do rzeczywistych należy:</string>
+    <string name="txtJakWykonacBadanie1">Badanie polega na określeniu progu słyszenia, czyli na znalezieniu najmniejszego natężenia słyszalnego sygnału o danej częstotliwości.</string>
+    <string name="txtJakWykonacBadanie2">W tym celu wybierz z listy próbę, wciśnij ZACZNIJ PRÓBĘ, aby załadować dane i następnie wciskaj GŁOŚNIEJ aż do momentu, gdy będziesz w stanie usłyszeć dźwięk. Aby zapisać pomiar wciśnij SŁYSZĘ. Gdy skończyłeś badanie wciśnij ZAKOŃCZ BADANIE.</string>
+    <string name="txtPoCoKalibracja1">Kalibracja pozwala ustalić stałą głośność urządzenia w celu wykonania jak najbardziej miarodajnego audiometrii tonalnej. Ze względu na zróżnicowanie parametrów urządzeń niemożliwe jest ominięcie tego procesu.</string>
+    <string name="txtInformacjeOProgramie1">W audiometrii tonalnej badanie słuchu polega na pomiarze przy przewodnictwie powietrznym lub kostnym, ubytku słuchu dla tonów sinusoidalnych o różnych częstotliwościach. Wyniki są prezentowane w postaci krzywych – audiogramów, które przedstawiają próg słyszenia.</string>
+    <string name="txtInformacjeOProgramie2">Aplikacja AUDIOMETR pozwala na przeprowadzenie symulacji audiometrii tonalnej, dzięki czemu już dzisiaj możesz zbadać swój słuch!</string>
+    <string name="txtUwaga">Uwaga! Niniejszy program nie ma na celu zastąpienia badania słuchu wykonanego profesjonalną aparaturą. Nie wszystkie parametry są zgodne z rzeczywistością ze względu na zróżnicowanie parametrów urządzeń.
+Celem programu jest wyznaczenie orientacyjnego audiogramu, zatem wyniki mogą różnić się od rzeczywistości w zależności od urządzenia i sprzętu audio użytego w badaniu. </string>
+    <string name="generuj">Zacznij próbę</string>
+    <string name="slysze">SŁYSZĘ!</string>
+    <string name="glosniej">Głośniej</string>
+    <string name="zakoncz_badanie"> Zakończ badanie</string>
+    <string name="wybierz_dzwiek">Wybierz dźwięk:</string>
+
+
+</resources>

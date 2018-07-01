@@ -1,0 +1,7 @@
+pg - pacjent wcisnal przycisk start i przeszedl do aktywnosci odpowiadajacej za wykonywanie badania (PacjentGotowy)
+
+s - wysylanie danych sygnalu do generowania dla pacjenta (Sygna³)
+
+ns - pacjent nie slyszy
+
+sl - pacjent slyszy
